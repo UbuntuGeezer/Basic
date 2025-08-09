@@ -1,0 +1,3 @@
+[submodule "BasicVersion"]
+	path = BasicVersion
+	url = ./BasicVersion
